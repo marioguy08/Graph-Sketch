@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Graph-Sketch/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Graph-Sketch/static/js/main.5d03cc0b.chunk.js",
+    "main.js.map": "/Graph-Sketch/static/js/main.5d03cc0b.chunk.js.map",
+    "runtime-main.js": "/Graph-Sketch/static/js/runtime-main.050249e5.js",
+    "runtime-main.js.map": "/Graph-Sketch/static/js/runtime-main.050249e5.js.map",
+    "static/js/2.6a946818.chunk.js": "/Graph-Sketch/static/js/2.6a946818.chunk.js",
+    "static/js/2.6a946818.chunk.js.map": "/Graph-Sketch/static/js/2.6a946818.chunk.js.map",
+    "static/js/3.08922eea.chunk.js": "/Graph-Sketch/static/js/3.08922eea.chunk.js",
+    "static/js/3.08922eea.chunk.js.map": "/Graph-Sketch/static/js/3.08922eea.chunk.js.map",
+    "index.html": "/Graph-Sketch/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Graph-Sketch/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6a946818.chunk.js.LICENSE.txt": "/Graph-Sketch/static/js/2.6a946818.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Graph-Sketch/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.050249e5.js",
+    "static/js/2.6a946818.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5d03cc0b.chunk.js"
+  ]
+}
