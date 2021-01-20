@@ -1,3 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+.listitems {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+.left{
+  border-bottom-left-radius: 5px;
+  border-top-left-radius:5px ;
+}
+.right{
+  border-bottom-right-radius: 5px;
+  border-top-right-radius:5px ;
+}
+.optionsbuttons{
+  margin-top: 29px;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  border-right-width: 2px;
+  border-left-width: 0px;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-color: #585086;
+  font-size: 17px;
+  font-weight: 600;
+  padding: 10px;
+  height: 50px;
+  
+}
+.optionsbuttons:focus {
+  outline: none;
+}
+.optionsbuttons:hover {
+  background-color: #817bbd !important;
+}
+.titletext{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 900;
+  color:#34393d;
+  font-size: 40px;
+  height: 55px;
+  margin-left: 1.75rem;
+}
+.topo{
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  padding-top: .8rem;
+  padding-left: .8rem;
+  padding-right: .8rem;
+  margin:0px;
+  height:33px;
+}
+.checkbox{
+  position: relative;
+  margin-top: 0px;
+  top: 18px;
+  width: 3rem;
+  height:3rem;
+  filter: hue-rotate(30deg);
+}
+
+.checktext{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 13px;
+  margin-right: 10px;
+}
 .App {
   text-align: center;
 }
