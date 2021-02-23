@@ -71,10 +71,6 @@ export default class MainCanvas extends Component {
     handleDragStart = e => {
         e.target.moveToTop();
         e.target.to({
-            shadowOffsetX: 0,
-            shadowOffsetY: 0,
-            shadowBlur: 10,
-            shadowColor: "black",
             scaleX: 1.15,
             scaleY: 1.15,
         });
@@ -107,7 +103,6 @@ export default class MainCanvas extends Component {
             easing: Konva.Easings.ElasticEaseOut,
             scaleX: 1,
             scaleY: 1,
-            shadowBlur: 0,
         });
     };
     addEdge = (e) => {
